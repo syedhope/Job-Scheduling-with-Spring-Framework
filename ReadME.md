@@ -13,7 +13,9 @@ The Application class provides static convenience methods that make it easy to w
 
 ### Environment 
 [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
 [Apache Maven 3.3.9](https://maven.apache.org/download.cgi)
+
 [Spring Tool Suite 3.7.3](https://spring.io/tools)
 
 ### Usage : 
